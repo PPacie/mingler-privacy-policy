@@ -5,7 +5,7 @@ include_in_header: false
 ---
 
 **Last updated**  
-May 8th, 2024
+Jun 18th, 2024
 
 # Privacy Policy
 
@@ -13,7 +13,7 @@ This policy applies to all information collected or submitted on Mingler website
 
 ## Information we collect
 
-We do not collect nor share any personal information. We deliberately do not share data read or recorded by Buoywatch or data entered by the user in the Buoywatch app with any third party.
+We do not collect nor share any personal information. We deliberately do not share data read or recorded by Mingler or data entered by the user in the Mingler app with any third party.
 
 ## Your consent
 
